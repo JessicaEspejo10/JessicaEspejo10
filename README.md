@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **SQL, Power BI y Python**
 
-- 👨‍💻 All of my projects are available at [https://sites.google.com/unal.edu.co/portfolio-jessicaespejo/inicio?authuser=0](https://sites.google.com/unal.edu.co/portfolio-jessicaespejo/inicio?authuser=0)
+- 👨‍💻 My principal projects are available at [https://sites.google.com/unal.edu.co/portfolio-jessicaespejo/inicio?authuser=0](https://sites.google.com/unal.edu.co/portfolio-jessicaespejo/inicio?authuser=0)
 
 - 📫 How to reach me **jenespejoto@unal.edu.co**
 

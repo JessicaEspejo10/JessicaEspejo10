@@ -5,11 +5,11 @@ I'm currently working in **Operador de recursos Fondo Emprender 2019 at Universi
 
 🌱 I’m currently learning **SQL, Power BI y Python**
 
-👨‍💻 My principal projects are available at [my portfolio](https://sites.google.com/unal.edu.co/portfolio-jessicaespejo/inicio?authuser=0)
+👨‍💻 My principal projects are available at [**my portfolio**](https://sites.google.com/unal.edu.co/portfolio-jessicaespejo/inicio?authuser=0)
 
 📫 How to reach me **jenespejoto@unal.edu.co**
 
-:point_right: Connect with me by [LinkedIn](https://linkedin.com/in/jessicaespejot)
+:point_right: Connect with me by [**LinkedIn**](https://linkedin.com/in/jessicaespejot)
  
 ### 🛠 &nbsp;Tech Stack
 

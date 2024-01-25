@@ -5,9 +5,9 @@ I'm currently working in **Operador de recursos Fondo Emprender 2019 at Universi
 
 🌱 I’m currently learning **SQL, Power BI y Python**
 
-👨‍💻 My principal projects are available at [**my portfolio**](https://sites.google.com/unal.edu.co/portfolio-jessicaespejo/inicio?authuser=0)
+👨‍💻 My principal projects are available at [**my portfolio**](https://sites.google.com/view/jessicaespejo/)
 
-📫 How to reach me **jenespejoto@unal.edu.co**
+📫 How to reach me **nataespejot@gmail.com**
 
 :point_right: Connect with me by [**LinkedIn**](https://linkedin.com/in/jessicaespejot)
  
